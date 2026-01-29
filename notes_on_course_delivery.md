@@ -4,6 +4,11 @@
 
 ### What went well
 
+- There was a great deal of partipant questions
+    - Indicates participants were engaged
+    - Indicates that partipants were not lost (unable to even formulate their
+    question)
+
 ### What went wrong
 
 - We were unable to deliver all of the course content
