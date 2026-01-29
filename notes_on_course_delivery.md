@@ -26,3 +26,8 @@ many participants.
     or something (or even check which courses the potential participant has
     previously completed), however this would mean less people would learn the
     wonders of version control.
+- This has always been difficult to implenent in CFRR courses (especially
+online ones like this), but I would love to see more engagement/activities with
+the participants. Watching someone type git commands then copying them is a
+good start, but you'll never become confident this way.
+
