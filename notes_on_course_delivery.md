@@ -17,3 +17,12 @@ loading more information into the course?
     that I'm writing this in markdown). However it has nothing to do with
     version control, why is it in this course? You could easily get away with
     a simple text file with no markup at all.
+- A large proportion of questions (in the chat or in the breaks) were general
+unix command line ones in the first session. Obviously I cannot know for
+certain, but it felt like the prerequisites for the course were ignored by
+many participants.
+    - This is a problem I've seen on a lot of CFRR courses and I'm not too sure
+    on a good solution. Of course you can gate course enrollment with a quiz
+    or something (or even check which courses the potential participant has
+    previously completed), however this would mean less people would learn the
+    wonders of version control.
