@@ -8,6 +8,9 @@
     - Indicates participants were engaged
     - Indicates that partipants were not lost (unable to even formulate their
     question)
+- The content delivered had very few interuptions and from my perspective had
+a good pace to it.
+    - Of course we will need to wait to see if the participants concur
 
 ### What went wrong
 
