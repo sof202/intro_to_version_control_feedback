@@ -7,6 +7,8 @@
 ### What went wrong
 
 - We were unable to deliver all of the course content
+- Turnout was 20-30% worse in the second session
+    - Currently unsure as to exactly why this was
 
 ### Future suggestions
 
