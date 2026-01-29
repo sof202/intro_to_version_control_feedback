@@ -43,4 +43,15 @@ many participants.
 online ones like this), but I would love to see more engagement/activities with
 the participants. Watching someone type git commands then copying them is a
 good start, but you'll never become confident this way.
-
+    - From my experience, most newcomers take the new knowledge on quite
+    quickly. However they don't end up using it in their work due to a lack of
+    confidence. Over time, this results in them forgetting the syntax and
+    completely giving up on version control all together.
+    - git is a big scary program that has unbelievably long man pages and feels
+    like a black box until you've spent a long time with it. Getting some
+    practice reps would go a long way in my opinion.
+    - From what I've seen, newcomers are happy with the syntax (after a bit of
+    time using it), but are afraid of the consequences of their actions. They
+    need to be shown that it is difficult to lose their work/code and feel
+    confident that they can revert any changes they make if something actually
+    does go wrong.
